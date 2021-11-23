@@ -1,10 +1,8 @@
-### Hello I'm Hackitect :cloud:
+[![Twitter](https://img.shields.io/twitter/follow/sottlmarek?color=green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/sottlmarek&screen_name=sottlmarek) [![Hackitect playground](https://img.shields.io/youtube/channel/views/UCy0S_HftNM7Fy0ksEOUHc-Q?color=green&label=Hackitects%20playground&style=for-the-badge)](https://www.youtube.com/channel/UCy0S_HftNM7Fy0ksEOUHc-Q) [![Subscribers ](https://img.shields.io/youtube/channel/subscribers/UCy0S_HftNM7Fy0ksEOUHc-Q?color=green&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCy0S_HftNM7Fy0ksEOUHc-Q) [![Subscribers ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mareksottl/)
+
+# Hello I'm Hackitect :cloud:
 
 Thats mean that I build & break systems on purpose. Hackitect is expression for hands on architect or Hacking architect. 
-
-## :fire: Social: 
-
-[![Twitter](https://img.shields.io/twitter/follow/sottlmarek?color=green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/sottlmarek&screen_name=sottlmarek) [![Hackitect playground](https://img.shields.io/youtube/channel/views/UCy0S_HftNM7Fy0ksEOUHc-Q?color=green&label=Hackitects%20playground&style=for-the-badge)](https://www.youtube.com/channel/UCy0S_HftNM7Fy0ksEOUHc-Q) [![Subscribers ](https://img.shields.io/youtube/channel/subscribers/UCy0S_HftNM7Fy0ksEOUHc-Q?color=green&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCy0S_HftNM7Fy0ksEOUHc-Q) [![Subscribers ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mareksottl/)
 
 ## :man: About me: 
 
